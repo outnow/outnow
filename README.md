@@ -5,6 +5,8 @@
 
 ##ss隧道（防失联临时过桥专用）
 ===
+订阅：https://suo.yt/WRtK1hx
+-
 
 ```javascript
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@fs.xianyuwangluo.cyou:27201#???? SG新加坡-优化1
