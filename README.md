@@ -11,7 +11,7 @@
 
 ##ss隧道（防失联临时过桥专用）
 ===
-订阅：https://suo.yt/WRtK1hx
+订阅：
 -
 
 ```javascript
