@@ -11,7 +11,7 @@
 
 ##ss隧道（防失联临时过桥专用）
 ===
-订阅：
+订阅：https://raw.githubusercontent.com/outnow/outnow/main/free
 -
 
 ```javascript
