@@ -3,6 +3,12 @@
 更新时间 2023-08-26 16:00
 -
 
+安卓端v2rayNG： https://github.com/2dust/v2rayNG/releases/download/1.8.6/v2rayNG_1.8.6_arm64-v8a.apk
+-
+安卓端clash：https://github.com/Kr328/ClashForAndroid/releases/download/v2.5.12/cfa-2.5.12-foss-arm64-v8a-release.apk
+-
+
+
 ##ss隧道（防失联临时过桥专用）
 ===
 订阅：https://suo.yt/WRtK1hx
