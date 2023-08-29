@@ -1,6 +1,6 @@
 所有免费节点都爬取自网络，请勿用于非法用途
 ===
-更新时间 2023-08-28 14:00
+更新时间 2023-08-29 17:00
 -
 
 安卓端v2rayNG： https://github.com/2dust/v2rayNG/releases/download/1.8.6/v2rayNG_1.8.6_arm64-v8a.apk
@@ -32,14 +32,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27142#???? RS塞尔维亚-高速入口
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27143#???? NO挪威-优化入口
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27143#???? NO挪威-高速入口
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27144#???? CZ捷克共和国-优化入口
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27144#???? CZ捷克共和国-高速入口
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27145#???? FR法国-优化入口
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27145#???? FR法国-高速入口
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27146#???? MM缅甸-优化入口
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27146#???? MM缅甸-高速入口
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27147#???? BD孟加拉国-优化入口
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27147#???? BD孟加拉国-高速入口
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27144#???? CZ捷克共和国-优化入
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@fs.xianyuwangluo.cyou:27201#???? SG新加坡-优化1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@jh.xianyuwangluo.cyou:27201#???? SG新加坡-优化2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@fs.xianyuwangluo.cyou:27202#???? JP日本-优化1
