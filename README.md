@@ -1,6 +1,6 @@
 所有免费节点都爬取自网络，请勿用于非法用途
 ===
-更新时间 2023-08-30 14:30
+更新时间 2023-08-31 15:30
 -
 
 安卓端v2rayNG： https://github.com/2dust/v2rayNG/releases/download/1.8.6/v2rayNG_1.8.6_arm64-v8a.apk
@@ -45,7 +45,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27104#???? USA美国-优化入口
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27104#???? USA美国-高速入口
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27105#???? AU澳大利亚-优化入口
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27105#???? AU澳大利亚-高速入口
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27105#???? AU澳大利亚-高速入
 
 
 ```
