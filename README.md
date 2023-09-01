@@ -1,6 +1,6 @@
 所有免费节点都爬取自网络，请勿用于非法用途
 ===
-更新时间 2023-08-31 15:30
+更新时间 2023-09-01 15:00
 -
 
 安卓端v2rayNG： https://github.com/2dust/v2rayNG/releases/download/1.8.6/v2rayNG_1.8.6_arm64-v8a.apk
@@ -16,8 +16,6 @@
 
 ```javascript
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@fs.xianyuwangluo.cyou:27201#???? SG新加坡-优化1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@jh.xianyuwangluo.cyou:27201#???? SG新加坡-优化2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@fs.xianyuwangluo.cyou:27202#???? JP日本-优化1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@jh.xianyuwangluo.cyou:27202#???? JP日本-优化2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@fs.xianyuwangluo.cyou:27203#???? IN印度-优化1
@@ -36,16 +34,22 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@jh.xianyuwangluo.cyou:27209#???? UK英国-优化2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@fs.xianyuwangluo.cyou:27210#???? CA加拿大-优化1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@jh.xianyuwangluo.cyou:27210#???? CA加拿大-优化2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27101#???? SG新加坡-优化入口
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27101#???? SG新加坡-高速入口
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27102#???? JP日本-优化入口
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27102#???? JP日本-高速入口
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27103#???? IN印度-优化入口
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27103#???? IN印度-高速入口
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27104#???? USA美国-优化入口
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27104#???? USA美国-高速入口
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27105#???? AU澳大利亚-优化入口
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27105#???? AU澳大利亚-高速入
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27106#???? CA加拿大-优化入口
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27106#???? CA加拿大-高速入口
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27107#???? UK英国-优化入口
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27107#???? UK英国-高速入口
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27108#???? DE德国-优化入口
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27108#???? DE德国-高速入口
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27109#???? HK香港-优化入口
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27109#???? HK香港-高速入口
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27110#???? VN越南-优化入口
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27110#???? VN越南-高速入口
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27112#???? TW台湾-优化入口
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27112#???? TW台湾-高速入口
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27113#???? MC印尼-优化入口
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27113#???? MC印尼-高速入口
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27114#???? JP日本原生-优化入口
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27114#???? JP日本原生-高速入口
 
 
 ```
