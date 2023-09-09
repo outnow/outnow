@@ -1,6 +1,6 @@
 所有免费节点都爬取自网络，请勿用于非法用途
 ===
-更新时间 2023-09-08 16:00
+更新时间 2023-09-09 13:00
 -
 
 安卓端v2rayNG： https://github.com/2dust/v2rayNG/releases/download/1.8.6/v2rayNG_1.8.6_arm64-v8a.apk
@@ -26,8 +26,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@fs.xianyuwangluo.cyou:27205#???? HK香港-优化1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@jh.xianyuwangluo.cyou:27205#???? HK香港-优化2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@fs.xianyuwangluo.cyou:27206#???? TW台湾-优化1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@jh.xianyuwangluo.cyou:27206#???? TW台湾-优化2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@fs.xianyuwangluo.cyou:27207#???? USA美国-优化1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27106#???? CA加拿大-优化入口
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27106#???? CA加拿大-高速入口
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27107#???? UK英国-优化入口
@@ -38,6 +36,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27109#???? HK香港-高速入口
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27110#???? VN越南-优化入口
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27110#???? VN越南-高速入口
-
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27112#???? TW台湾-优化入口
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@foshan.chiguayun.cc:27112#???? TW台湾-高速入口
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxM2NiM2ZhMi05NmFkLTQwOTMtOGQ4Yy05MDhkMGM4YTA3NDc@hefei.chiguayun.cc:27115#???? TH泰国-优化入口
 
 ```
