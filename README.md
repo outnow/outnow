@@ -15,7 +15,7 @@
 ==
 缩写订阅：https://bit.ly/myfreedoor
 ==
-缩写订阅：https://bybit.gq/myfreedoor
+缩写订阅：https://bybit.gq/outnow
 ==
       
 -
