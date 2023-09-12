@@ -12,7 +12,10 @@
 ##ss隧道（防失联临时过桥专用）
 ===
 订阅：https://raw.githubusercontent.com/outnow/outnow/main/free
-      bit.ly/myfreedoor
+==
+缩写订阅：bit.ly/myfreedoor
+==
+      
 -
 
 ```javascript
