@@ -1,6 +1,6 @@
 所有免费节点都爬取自网络，请勿用于非法用途
 ===
-更新时间 2023-09-011 17:00
+更新时间 2023-09-12 15:00
 -
 
 安卓端v2rayNG： https://github.com/2dust/v2rayNG/releases/download/1.8.6/v2rayNG_1.8.6_arm64-v8a.apk
@@ -12,6 +12,7 @@
 ##ss隧道（防失联临时过桥专用）
 ===
 订阅：https://raw.githubusercontent.com/outnow/outnow/main/free
+      bit.ly/myfreedoor
 -
 
 ```javascript
