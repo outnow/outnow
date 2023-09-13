@@ -13,7 +13,7 @@
 ===
 订阅：https://raw.githubusercontent.com/outnow/outnow/main/free
 ==
-缩写订阅：https://gitpub.top/get?key=outnow
+缩写订阅：https://sub.gitpub.top/freedoor
 ==
       
 -
