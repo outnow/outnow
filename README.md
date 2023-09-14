@@ -19,6 +19,9 @@
 -
 
 ```javascript
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@fs.xianyuwangluo.cyou:27201#距离下次重置剩余：12 天
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@fs.xianyuwangluo.cyou:27201#套餐到期：2023-09-26
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@fs.xianyuwangluo.cyou:27201#???? SG新加坡-优化1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@jh.xianyuwangluo.cyou:27201#???? SG新加坡-优化2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@fs.xianyuwangluo.cyou:27202#???? JP日本-优化1
@@ -37,5 +40,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@jh.xianyuwangluo.cyou:27208#???? DE德国-优化
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@fs.xianyuwangluo.cyou:27209#???? UK英国-优化1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@jh.xianyuwangluo.cyou:27209#???? UK英国-优化2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@fs.xianyuwangluo.cyou:27210#???? CA加拿大-优化1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@jh.xianyuwangluo.cyou:27210#???? CA加拿大-优化2
+
 
 ```
