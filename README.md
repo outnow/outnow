@@ -15,6 +15,8 @@
 ==
 缩写订阅：https://sub.gitpub.top/freedoor
 ==
+部分地区无法访问上述接口的话：http://api.pgypgy.me/freedoor
+==
       
 -
 
