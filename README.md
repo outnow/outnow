@@ -1,6 +1,6 @@
 所有免费节点都爬取自网络，请勿用于非法用途
 ===
-更新时间 2023-09-21 15:00
+更新时间 2023-09-22 10:00
 -
 
 安卓端v2rayNG： https://github.com/2dust/v2rayNG/releases/download/1.8.6/v2rayNG_1.8.6_arm64-v8a.apk
@@ -11,9 +11,7 @@
 
 ##ss隧道（防失联临时过桥专用）
 ===
-订阅：https://raw.githubusercontent.com/outnow/outnow/main/free
-==
-缩写订阅：https://sub.gitpub.top/freedoor
+订阅：https://sub.gitpub.top/freedoor
 ==
 部分地区无法访问上述接口的话：http://www.gitpub.top/freedoor
 ==
@@ -42,6 +40,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@jh.xianyuwangluo.cyou:27209#???? UK英国-优化2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@fs.xianyuwangluo.cyou:27210#???? CA加拿大-优化1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTIzYzQzNy1kZTJjLTQ3ZTMtYjc3OS1mYjFkMjI4OTU3OGY@jh.xianyuwangluo.cyou:27210#???? CA加拿大-优化2
+
 
 
 
