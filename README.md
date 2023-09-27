@@ -1,6 +1,6 @@
 所有免费节点都爬取自网络，请勿用于非法用途
 ===
-更新时间 2023-09-24 11:00
+更新时间 2023-09-27 11:00
 -
 
 安卓端v2rayNG： https://github.com/2dust/v2rayNG/releases/download/1.8.6/v2rayNG_1.8.6_arm64-v8a.apk
@@ -19,8 +19,8 @@
 -
 
 ```javascript
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozODg0YjA2ZC02MTBmLTQzOGYtODYxMC1jODY5MDUxMTYxNmU@yd.ktmwan.top:27250#剩余流量：1589 GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozODg0YjA2ZC02MTBmLTQzOGYtODYxMC1jODY5MDUxMTYxNmU@yd.ktmwan.top:27250#距离下次重置剩余：21 天
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozODg0YjA2ZC02MTBmLTQzOGYtODYxMC1jODY5MDUxMTYxNmU@yd.ktmwan.top:27250#剩余流量：1510.46 GB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozODg0YjA2ZC02MTBmLTQzOGYtODYxMC1jODY5MDUxMTYxNmU@yd.ktmwan.top:27250#距离下次重置剩余：19 天
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozODg0YjA2ZC02MTBmLTQzOGYtODYxMC1jODY5MDUxMTYxNmU@yd.ktmwan.top:27250#套餐到期：2023-10-16
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozODg0YjA2ZC02MTBmLTQzOGYtODYxMC1jODY5MDUxMTYxNmU@yd.ktmwan.top:27250#???? SG新加坡-移动优化
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozODg0YjA2ZC02MTBmLTQzOGYtODYxMC1jODY5MDUxMTYxNmU@lt.ktmwan.top:27250#???? SG新加坡-联通优化
