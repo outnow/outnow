@@ -20,8 +20,6 @@
 
 ```javascript
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTZiMzI1Yi0xZjE0LTQ0ZWQtYjEyZC1lNmI1MmNjNjQ1Njc@ydyh.nanbei.info:26901#剩余流量：1023.79 GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTZiMzI1Yi0xZjE0LTQ0ZWQtYjEyZC1lNmI1MmNjNjQ1Njc@ydyh.nanbei.info:26901#套餐到期：2023-11-06
 
 
 ```
