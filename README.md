@@ -15,7 +15,10 @@
 ==
 部分地区无法访问上述接口的话：http://www.gitpub.top/freedoor
 ==
-      
+建议大家都用订阅来获取最新线路
+==
+
+    
 -
 
 ```javascript
