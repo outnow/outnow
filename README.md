@@ -17,6 +17,8 @@
 ==
 ↑建议大家都用订阅来获取最新线路↑
 ==
+领取独享订阅地址：http://www.gitpub.top/freedoor/getsub
+==
 
     
 -
