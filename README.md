@@ -1,6 +1,5 @@
 所有免费节点都爬取自网络，请勿用于非法用途
 ===
-更新时间 2023-10-22 10:00
 -
 
 安卓端v2rayNG： https://github.com/2dust/v2rayNG/releases/download/1.8.6/v2rayNG_1.8.6_arm64-v8a.apk
