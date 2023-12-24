@@ -6,7 +6,6 @@ if ! command -v jq &> /dev/null; then
   exit 1
 fi
 
-
 # Your Cloudflare zone ID
 ZONE_ID="2d6cd148188eba7f5e3f7c991475bfcf"
 # Your Cloudflare DNS record name
@@ -28,7 +27,7 @@ RECORD_ID=$(curl -s -X GET "https://api.cloudflare.com/client/v4/zones/$ZONE_ID/
 IP=$(curl -s http://ipv4.icanhazip.com)
 
 # Update DNS record:
-curl -X PUT "https://api.cloudflare.com/client/v4/zones/$ZONE_ID/dns_records/$RECORD_ID" \
+curl -X PATCH "https://api.cloudflare.com/client/v4/zones/$ZONE_ID/dns_records/$RECORD_ID" \
      -H "X-Auth-Email: $EMAIL" \
      -H "X-Auth-Key: $API_KEY" \
      -H "Content-Type: application/json" \
